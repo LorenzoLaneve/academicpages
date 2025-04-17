@@ -1,0 +1,37 @@
+[{
+    "authors": ["#lorenzo"],
+    "title": "Generalized Quantum Signal Processing and Non-Linear Fourier Transform are equivalent",
+    "references": [ ["", "article", "", 2025] ],
+    "fullversion": [ ["arxiv", "2503.03026"] ]
+  },
+    {
+    "authors": ["#lorenzo", "#stefan"],
+    "title": "On multivariate polynomials achievable with quantum signal processing",
+    "references": [ ["published", "article", "Quantum 9, 1641", 2025] ],
+    "fullversion": [ ["doi", "10.22331/q-2025-02-20-1641"], ["arxiv", "2407.20823"] ]
+  },
+  {
+    "authors": ["#lorenzo"],
+    "title": "Quantum signal processing over SU(N)",
+    "references": [ ["", "article", "", 2023] ],
+    "fullversion": [ ["arxiv", "2311.03949"] ]
+  },
+  {
+    "authors": ["#lorenzo"],
+    "title": "Robust oracle quantum-state preparation via quantum signal processing",
+    "references": [ ["", "article", "", 2023] ],
+    "fullversion": [ ["arxiv", "2305.04705"] ]
+  },
+  {
+    "authors": ["#lorenzo", "Francesco Tacchino", "Ivano Tavernelli"],
+    "title": "On Hitting Times for General Quantum Markov Processes",
+    "references": [ ["published", "article", "Quantum 7, 1056", 2023] ],
+    "fullversion": [ ["doi", "10.22331/q-2023-07-12-1056"], ["arxiv", "2210.10188"] ]
+  },
+  {
+    "authors": ["#lorenzo"],
+    "title": "Robust oracle quantum-state preparation via quantum signal processing",
+    "references": [ ["", "article", "", 2023] ],
+    "fullversion": [ ["arxiv", "2305.04705"] ]
+  }
+]
